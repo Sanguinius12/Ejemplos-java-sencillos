@@ -1,3 +1,5 @@
 # Ejemplos-java-sencillos
-# Descripción: Repositorio de ejemplos sencillos de java.
-# Saúl Ignacio González
+# Descripción
+Repositorio de ejemplos sencillos de java.
+# Nombre alumno
+Saúl Ignacio González
